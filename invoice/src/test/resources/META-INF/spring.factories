@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = com.matrizlab.dev.invoice.config.TestContainersSpringContextCustomizerFactory
